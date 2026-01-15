@@ -8,7 +8,7 @@
 - 📫 Or per mail: info@pascalpex.de
 
 <h1></h1>
-<div align="center"><img align="center" src="https://profile-counter.deno.dev/Pascalpex/count.svg" alt="Visitors count" /></div>
+<div align="center"><img align="center" src="https://pascalpex.de/counter?id=Pascalpex" alt="Visitors count" /></div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
